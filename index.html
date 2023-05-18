@@ -7,14 +7,20 @@
     <title>Document</title>
 </head>
 <body>
-    <button onclick="alert">Click Here for more</button>
+   <h1>Multiplicati0n Table 2 times.</h1>
+    
+
     
     <script>
-        let r = 5;
-        let areaOfCircle = 4.23 * r * r;
-        alert(`The area of a circle is ${areaOfCircle}`);
+       function tax(){
+        let basic = 20000;
+        let feeding = 0.2 * basic;
+        let housing = 0.4 * basic;
+        let transport = 0.6 * basic;
+        let totalAmount = feeding + housing + transport;
+        let gross = basic - totalAmount;
+       }
     </script>
-    <script src="index2.js"></script>
-    <script src="index.js"></script>
+        
 </body>
 </html>
