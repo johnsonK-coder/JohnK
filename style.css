@@ -1,0 +1,588 @@
+.navbar-brand button {
+    color: white !important;
+    background-color: orangered;
+    width: 100px;
+    height: 50px;
+    margin-left: 100px !important;
+    margin-top: 30px;
+}
+.navbar-nav{
+    margin-left: 300px;
+}
+.navbar-nav li a{
+    margin-right: 15px;
+    margin-top: 40px !important;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: 200;
+}
+.navbar-nav li a:hover{
+    color: red !important;
+}
+.fa-solid{
+    margin-right: 200px !important;
+    margin-top: 40px;
+}
+
+
+
+
+
+.container-text{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.490), rgba(0, 0, 0, 0.490)), url(../Images_folder/build.png);
+    height: 80vh;
+    background-size: cover;
+    margin-top: 80px;
+    width: 100%;
+}
+.h{
+    width: 4%;
+    height: 3px;
+    border: 1px solid whitesmoke;
+    margin-left: 740px;
+}
+.text{
+   text-align: center;
+   padding-top: 300px !important;
+   color: whitesmoke;
+}
+.text h5{
+    font-size: 0.5rem;
+    font-weight: bold;
+}
+.text p{
+    font-size: 1.7rem;
+    font-weight: 500;
+    font-family: aller;;
+}
+.text button{
+    color: whitesmoke;
+    background-color: orangered;
+    width: 150px;
+    height: 50px;
+    font-size: 0.7rem;
+    font-weight: 300;
+    border-radius: 10px;
+}
+
+
+
+
+
+.container-box{
+    background-color: whitesmoke;
+    height: 90vh;
+    margin-top: 50px;
+    width: 100%;
+}
+.img-fluid{
+    margin-top: 130px;
+    margin-left: 100px;
+}
+.move{
+    padding-top: 300px;
+}
+.move h5{
+    font-size: 1.1rem;
+    font-weight: 600;
+    color: black;
+}
+.move p{
+    font-size: 0.5rem;
+    padding-top: 8px;
+    color: black;
+}
+.move button{
+    color: whitesmoke;
+    background-color: rgb(213, 46, 46);
+    width: 140px;
+    height: 50px;
+    font-size: 0.7rem;
+    font-weight: 300;
+    border-radius: 10px;
+    padding-top: 5px;
+}
+
+
+
+
+.container-wrap{
+    background-color: rgb(249, 248, 246);
+    height: 55vh;
+    margin-top: 50px;
+    width: 100%;
+}
+.cons{
+    width: 8%;
+    height: 3px;
+    border: 2px solid red;
+}
+.icons{
+    padding-top: 50px;
+}
+.icons h5{
+    text-align: center;
+    font-size: 1.7rem;
+    
+}
+.icons p{
+    text-align: center;
+    font-size: small;
+}
+.card-body i{
+    font-size: 50px;
+    margin-left: 80px;
+    color: rgb(164, 164, 112);
+    padding-bottom: 25px;
+}
+.card-body h5{
+    font-size: 1.2rem;
+    margin-left: 10px;
+    padding-bottom: 5px;
+}
+.card-body p{
+    font-size: 0.8rem !important;
+    padding-left: 20px;
+    font-weight: 300;
+}
+.box-one{
+    margin-top: 30px;
+    color: red !important;
+}
+.box-two{
+    margin-top: 30px;
+}
+.box-three{
+    margin-top:30px;
+}
+.box-four{
+    margin-top: 30px;
+}
+
+
+
+
+.img-container{
+    background-color:whitesmoke;
+    height: 80vh;
+    margin-top: 50px;
+    width: 100%;
+}
+.class{
+    margin-top: 250px;
+    margin-left: 200px;
+}
+.class h3{
+    font-size: 1.3rem;
+    font-weight: 500;
+    color: black;
+}
+.class p{
+    font-size: 0.62rem;
+    font-weight: 400;
+    color: black;
+}
+.matter{
+    display:flex;
+    justify-content: space-between;
+    padding-top: 10px;
+}
+.matter h5{
+    margin-right: 320px;
+    font-size: 0.8rem;
+    color: red;
+}
+.matter h5 span{
+    color: black;
+}
+.matter h4{
+    font-size: 0.8rem;
+    color: red;
+}
+.matter h4 span{
+    color: black;
+}
+.matter h6{
+    font-size: 0.8rem;
+    color: red;
+}
+.matter h6 span{
+    color: black;
+}
+
+
+
+
+.buildings-container{
+    background-color: whitesmoke;
+    height: 180vh;
+    margin-top: 50px;
+    width: 100%;
+}
+.team{
+    width: 8%;
+    height: 3px;
+    border: 2px solid red;
+}
+.body-page{
+    padding-top: 150px;
+    text-align: center;
+}
+
+
+
+
+
+.card-container{
+    background-color: F6F1E9;
+    height: 100vh;
+    margin-top: 50px;
+    width: 100%;
+}
+.p{
+    width: 8%;
+    height: 1px;
+    border: 2px solid red;
+}
+.minor{
+    text-align: center;
+    padding-top: 200px;
+}
+.minor h5{
+    font-size: 1.8rem;
+    font-weight: 500;
+}
+.box-8 img{
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+    margin-left: 20px;
+    margin-top: 30px;
+}
+.box-8{
+    background-color: white;
+    width: 500px;
+    height: 170px;
+    border-radius: 10px solid black;
+    margin-left: 80px;
+}
+.box-8 h4{
+    font-size: 1.2rem;
+    margin-left: 150px;
+    margin-top: -98px;
+    font-weight: bold;
+    color: black;
+}
+.box-8 h5{
+    font-weight: 500;
+    font-style: italic;
+    font-size: 1.2rem;
+    margin-left: 150px;
+    color: black;
+}
+.box-8 h6{
+    font-weight: 400;
+    font-size: 0.8rem;
+    margin-left: 150px;
+    color: black;
+}
+
+
+
+
+
+
+.recent-container{
+    background-color: whitesmoke;
+    height: 130vh;
+    margin-top: 50px; 
+    width: 100%;
+}
+.horin{
+    width: 8%;
+    height: 1px;
+    margin-left: 750px;
+    border: 2px solid red;
+} 
+.recent{
+    text-align: center;
+    padding-top: 300px;
+}
+.recent h4{
+    font-size: 1.8rem;
+    font-weight: 500;
+    color: black;
+}
+.lonely h6{
+    margin-left: 120px;
+    margin-top: 20px;
+    font-weight: 200;
+    color: black;
+}
+.lonely p{
+    margin-left: 98px;
+    font-size: 1rem;
+    font-weight: 500;
+    color: black;
+}
+
+
+
+
+.container-wrapper{
+    background: linear-gradient(rgba(0, 0, 0, 0.9),rgba(0, 0, 0, 0.9)), url(../Bckg_Images/deep.jpg);
+    width: 100%;
+    height: 70vh;
+    margin-top: 80px; 
+    width: 100%;
+    background-size: cover;
+}
+.row{
+    color: white;
+   font-weight: 300;
+   padding-top: 100px;
+   padding-left: 70px;
+}
+.footing li{
+    color: white;
+    line-height: 40px;
+    list-style-type: none;
+}
+.footing a{
+    text-decoration: none;
+    
+}
+.footing2 li{
+    color: white;
+    line-height: 50px;
+    list-style-type: none;
+}
+.footing2 a{
+    text-decoration: none;
+    
+}
+text{
+    width: 100px;
+    height: 30px;
+}
+.foot3 button{
+    width: 120px;
+    height: 50px;
+    background-color: orangered;
+    color: white;
+    border-radius: 8px;
+    border: orangered;
+    font-size: smaller;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.foot3 h5{
+    font-size: small;
+    line-height: 25px;
+    font-weight: 300;
+}
+.foot3 h6{
+    color: orangered;
+    padding-top: 20px;
+}
+.copy{
+    text-align: center;
+}
+.copy h6{
+    padding-top: 150px;
+    color: white;
+}
+.fa-solid{
+    color: red;
+}
+
+
+
+.about-container{
+    background-color: rgb(252, 246, 246);
+    height: 25vh;
+}
+.my-text{
+    text-align: center;
+    padding-top: 50px;
+}
+.my-text h4{
+    font-size: 2rem;
+}
+.my-text h6{
+    font-size: 0.6rem;
+    font-weight: 500;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.tool-container{
+    background-color: whitesmoke;
+    height: 70vh;
+}
+.toolbox{
+    padding-top: 300px;
+}
+.toolbox h5{
+    font-size: 1.1rem;
+    font-weight: 600;
+    color: black;
+}
+.toolbox p{
+    font-size: 0.5rem;
+    padding-top: 8px;
+    color: black;
+}
+.toolbox button{
+    color: whitesmoke;
+    background-color: rgb(213, 46, 46);
+    width: 140px;
+    height: 50px;
+    font-size: 0.7rem;
+    font-weight: 300;
+    border-radius: 10px;
+    padding-top: 5px;
+}
+
+
+.review-container{
+    background-color: white;
+    height: 80vh;
+}
+
+.services-container{
+    background-color: whitesmoke;
+    height: 110vh;
+}
+.row{
+    justify-content: space-evenly;
+}
+
+.my-text2{
+    text-align: center;
+    padding-top: 80px;
+}
+.my-text2 h4{
+    font-size: 2rem;
+}
+.my-text2 h6{
+    font-size: 0.6rem;
+    font-weight: 500;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.icons2{
+    padding-top: 250px;
+    text-align: center;
+}
+.icons2 h5{
+    text-align: center;
+    font-size: 1.7rem;
+    
+}
+.icons2 p{
+    text-align: center;
+    font-size: small;
+}
+
+
+.photo-container{
+    background-color: whitesmoke;
+    height: 80vh;
+    margin-top: 50px;
+}
+
+
+.project-container{
+    background-color: rgb(252, 246, 246);
+    height: 40vh;
+}
+.my-text3{
+    text-align: center;
+    padding-top: 130px;
+}
+.my-text3 h4{
+    font-size: 2rem;
+}
+.my-text3 h6{
+    font-size: 0.6rem;
+    font-weight: 500;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.web-container{
+    background-color: white;
+    height: 150vh;
+    margin-top: 50px; 
+    width: 100%;
+}
+.horin{
+    width: 8%;
+    height: 1px;
+    margin-left: 750px;
+    border: 2px solid red;
+} 
+.web{
+    text-align: center;
+    padding-top: 180px;
+}
+.web h4{
+    font-size: 1.8rem;
+    font-weight: 500;
+    color: black;
+}
+.web p{
+    text-align: center;
+    font-size: 0.7rem;
+}
+.unorder{
+    display: flex;
+    margin-left: 60px;
+    margin-top: 150px;
+}
+.unorder li a{
+    text-decoration: none;
+    margin-left: 60px;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight:100;
+}
+.unorder li{
+    list-style-type: none;
+}
+
+
+.custom-container{
+    background-color: white;
+    height: 80vh;
+    margin-top: 180px;
+    border: 10px solid white;
+}
+
+
+.contact-container{
+    background-color: rgb(252, 246, 246);
+    height: 40vh;
+}
+.my-text4{
+    text-align: center;
+    padding-top: 130px;
+}
+.my-text4 h4{
+    font-size: 2rem;
+}
+.my-text4 h6{
+    font-size: 0.6rem;
+    font-weight: 500;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+
+.map-container{
+    color: white;
+    height: 100vh;
+    margin-top: 50px;
+}
+.map{
+    padding-top: 80px;
+    margin-left: 200px;
+}
+.span{
+    color: orangered;
+}
