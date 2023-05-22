@@ -37,3 +37,5 @@ if (capTrader - p) {
       for(let j = 1; j<= 12; j++){
         console.log(`2 x ${j} = ${j * 2} `);
       }
+
+      

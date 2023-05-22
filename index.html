@@ -7,19 +7,22 @@
     <title>Document</title>
 </head>
 <body>
-   <h1>Multiplicati0n Table 2 times.</h1>
+   <h1>Multiplication Table 2 times.</h1>
     
 
     
     <script>
-       function tax(){
+        //Funtion loops.
+       function tax(housing, feeding, transport){
         let basic = 20000;
-        let feeding = 0.2 * basic;
-        let housing = 0.4 * basic;
-        let transport = 0.6 * basic;
+        let feeding = 0.1 * basic;
+        let housing = 0.2 * basic;
+        let transport = 0.4 * basic;
         let totalAmount = feeding + housing + transport;
         let gross = basic - totalAmount;
+        document.write(basic - totalAmount);
        }
+       tax(basic)
     </script>
         
 </body>
