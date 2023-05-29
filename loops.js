@@ -159,33 +159,31 @@ let nameNo2 = "FABULOUS";
 console.log(nameNo2.toLowerCase());
 let numb = 4000;
 console.log(numb.toLocaleString());
+let fruits = ("Banana", "Apple", "Watermelon", "Cucumber");
+console.log(fruits.includes("Cucumber"));
 let man = "This man is actually looking for something";
 console.log(man.indexOf("hing"));
 let centre = "Manuscript";
 console.log(centre.toLocaleUpperCase());
+let menu = "I love CSS";
+let val = menu.replace("CSS", "JavaScript");
+console.log(val);
 
-
-
-
-
-
-
-
-// //conditional statement
-// //Instead of using &&(and) for this, it's preferably to use ||(or) because the || operation is always true.
-// const user = "Bode";
-// const age = "27";
-// if (user == "Busayo" && age >= "27"){
-//     alert("You're an Adult");
-// }
-// else{
-//     alert("You're not an Adult");
-// }
-// const user1 = "Bode";
-// const age1 = "27";
-// if (user == "Busayo" || age >= "27"){
-//     alert("You're an Adult");
-// }
-// else{
-//     alert("You're not an Adult");
-// }
+//conditional statement
+//Instead of using &&(and) for this, it's preferably to use ||(or) because the || operation is always true.
+const user = "Bode";
+const age = "27";
+if (user == "Busayo" && age >= "27"){
+    alert("You're an Adult");
+}
+else{
+    alert("You're not an Adult");
+}
+const user1 = "Bode";
+const age1 = "27";
+if (user == "Busayo" || age >= "27"){
+    alert("You're an Adult");
+}
+else{
+    alert("You're not an Adult");
+}
