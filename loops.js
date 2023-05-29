@@ -169,6 +169,18 @@ let menu = "I love CSS";
 let val = menu.replace("CSS", "JavaScript");
 console.log(val);
 
+//Number methods
+let num = 8;
+console.log(num.toFixed(1));
+let num2 = 7.0;
+console.log(num.toFixed(4));
+let m = 9.0678;
+let val2 = m.toString();
+console.log(typeof val2);
+console.log(parseInt("-25"));
+console.log(parseInt("20"));
+console.log(parseInt("20.70"));
+
 //conditional statement
 //Instead of using &&(and) for this, it's preferably to use ||(or) because the || operation is always true.
 const user = "Bode";
